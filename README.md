@@ -8,8 +8,9 @@
 
 Afin d'installer le projet, veuillez récupérer le projet en copiant la ligne suivante :
 
-##
-<tab><tab>git clone https://github.com/LMRomax/testPlusQuePro.git
+``` bash
+git clone https://github.com/LMRomax/testPlusQuePro.git
+```
 
 Quand le projet est récupéré paramétrer votre fichier .env (un fichier .env.example est disponible, les informations d'accès 
 à la BDD dockeriser sont déjà mise en place) puis commencer l'installation des dépendances en copiant/collant la ligne suivante dans votre terminal/console :
