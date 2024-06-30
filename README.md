@@ -50,7 +50,7 @@ Maintenant que l'application est installée, nous allons pouvoir dans un premier
 Pour cela, placez-vous à la racine du projet et lancez la commande :
 
 ``` bash
-./vendor/bin/sail user:create
+./vendor/bin/sail artisan user:create
 ```
 
 Suivez les indications affichées à l'écran. Nous avons créé un user. Les informations fournies 
