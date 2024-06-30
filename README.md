@@ -13,7 +13,7 @@ git clone https://github.com/LMRomax/testPlusQuePro.git
 ```
 
 Quand le projet est récupéré paramétrer votre fichier .env (un fichier .env.example est disponible, les informations d'accès 
-à la BDD dockeriser sont déjà mise en place) puis commencer l'installation des dépendances en copiant/collant la ligne suivante dans votre terminal/console :
+à la BDD dockeriser sont déjà mise en place). N'oubliez pas de renseigner votre clé api moviedb dans le champ MOVIE_DB_API_KEY puis commencer l'installation des dépendances en copiant/collant la ligne suivante dans votre terminal/console :
 
 ``` bash
 composer install
