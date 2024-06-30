@@ -91,5 +91,3 @@ La liste des sources consultées :
 
 En cas de soucis n'hésitez pas à me contacter via l'adresse : 
 <a href="mailto:maxencectmd.lemaitre@gmail.com">maxencectmd.lemaitre@gmail.com</a>
-ou par téléphone : 
-<a href="tel:0626237181">06 26 23 71 81</a>
