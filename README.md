@@ -18,7 +18,13 @@ Quand le projet est récupéré paramétrer votre fichier .env (un fichier .env.
 ``` bash
 composer install
 ```
-Une fois la commande terminée, lancez un build de npm :
+Une fois la commande terminée, lancez l'installation de npm :
+
+``` bash
+npm install
+```
+
+puis
 
 ``` bash
 npm run build
